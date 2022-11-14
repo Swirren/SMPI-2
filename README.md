@@ -1,7 +1,7 @@
 This is a versatile modpack installer that can be used for any mod combination.
 
 It is mainly designed with ease of use in mind for less technologically adept people.
-It contains a simple, easy to understand menu that explains what the program is doing.
+It contains a simple, easy to understand menu that explains what the program is doing during the installation process.
 
 -
 
