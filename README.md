@@ -1,5 +1,8 @@
 This is a versatile modpack installer that can be used for almost any mod combination.
 
+It is mainly designed with ease of use in mind for less technologically adept people.
+It contains a simple, easy to understand menu that explains what the program is doing.
+
 Off the bat, the default file will NOT install mods. 
 Use the %Modx% placeholders to fill in for up to 5 mods. Past 5 you'll have to do some other tweaks. 
 Simply CTRL+F for %Modx% placeholders and you can add extra entries to the necessary lines.
