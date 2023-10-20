@@ -11,4 +11,4 @@ Simply CTRL+F for %Modx% placeholders and you can add extra entries to the neces
 
 This repo is mainly for the code hosting, for actual use from this source you'll need to edit the file yourself.
 
-***If you want me to enter mods for you and make a modpack, create an issue report or message me on Discord @Swirren#8879***
+***If you want me to enter mods for you and make a modpack, create an issue report or message me on Discord @Swirren***
